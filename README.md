@@ -21,7 +21,7 @@ TimeFlow is a simple timer web app built with React, Tailwind CSS, and JavaScrip
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/timeflow.git
+   git clone https://github.com/jeffryhawchab/TimeFlow.git
 
 
 2. Navigate to the project directory:
