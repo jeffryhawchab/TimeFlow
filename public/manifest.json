@@ -1,0 +1,7 @@
+{
+  "name": "TimeFlow",
+  "short_name": "TimeFlow",
+  "description": "A React-based timer web app for efficient time management.",
+  "start_url": "/",
+  "display": "standalone"
+}
